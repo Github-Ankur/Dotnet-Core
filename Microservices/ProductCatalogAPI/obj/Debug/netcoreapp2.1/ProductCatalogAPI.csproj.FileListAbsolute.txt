@@ -1,0 +1,3 @@
+F:\Dotnet Core\Microservices\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.csproj.CoreCompileInputs.cache
+F:\Dotnet Core\Microservices\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.AssemblyInfoInputs.cache
+F:\Dotnet Core\Microservices\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.AssemblyInfo.cs
